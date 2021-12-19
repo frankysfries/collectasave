@@ -67,4 +67,8 @@
   <li>If you would like to suggest a different namespace for SVG's, please open an issue in the repo.</li>
   <li>Any other bugs please open an issue in the repo.</li>
   </ul>
-  <p>* Vector artwork provided in Illustrator example from <a href="https://vecteezy.com">Vecteezy</a>.
+<h2>Notes</h2>
+<ul>
+  <li>Vector artwork provided in Illustrator example from <a href="https://vecteezy.com">Vecteezy</a>.</li>
+  <li>Collectasave does not automatically publish your artwork to marletplaces like Opensea. You'll need to create your own minting dapp and smart contract or upload to marketplaces by other means.</li> 
+ </ul>
