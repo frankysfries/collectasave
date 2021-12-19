@@ -1,5 +1,5 @@
 # Collectasave
-<p>A generative art creation tool for Photoshop and Illustrator. Export your NFT collection artwork with corresponding metadata and customizable rarity settings.</p>
+<p>A generative art creation tool for Photoshop and Illustrator. Export your NFT collection artwork as unique assets with corresponding metadata and customizable rarity settings.</p>
 
 <p>Please take a moment to follow...
   <br />Twitter: <a href="https://twitter.com/FrankysFries">@FrankysFries</a>
@@ -67,3 +67,4 @@
   <li>If you would like to suggest a different namespace for SVG's, please open an issue in the repo.</li>
   <li>Any other bugs please open an issue in the repo.</li>
   </ul>
+  <p>* Vector artwork provided in Illustrator example from <a href="https://vecteezy.com">Vecteezy</a>.
