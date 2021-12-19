@@ -62,7 +62,7 @@
 <h2>Issues/Limitations</h2>
 <ul>
   <li>As of 2021.12.18 this software has not yet been tested on Windows.</li>
-  <li>Please keep in mind that Adobe ExtendScript uses ECMA 3 (1999), limiting some features and leading to some undireable architecture.</li>
+  <li>Please keep in mind that Adobe ExtendScript uses ECMA 3 (1999) Javascript, limiting some features and leading to some undireable architecture.</li>
   <li>For Illustrator, do not include any bitmaps in your artwork. Collectasave will only work with vector-only artwork. For mixed artwork, use Collectasave with Photoshop.</li>
   <li>If you would like to suggest a different namespace for SVG's, please open an issue in the repo.</li>
   <li>Any other bugs please open an issue in the repo.</li>
