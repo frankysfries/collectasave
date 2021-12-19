@@ -69,6 +69,6 @@
   </ul>
 <h2>Notes</h2>
 <ul>
-  <li>Vector artwork provided in Illustrator example from <a href="https://vecteezy.com">Vecteezy</a>.</li>
+  <li>Vector artwork provided in Illustrator example from <a href="https://vecteezy.com">Vecteezy.com</a>.</li>
   <li>Collectasave does not automatically publish your artwork to marletplaces like Opensea. You'll need to create your own minting dapp and smart contract or upload to marketplaces by other means.</li> 
  </ul>
