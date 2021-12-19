@@ -41,3 +41,29 @@
   <li>Fill out the required fields in the left panel.</li>
   <li>It's recommend to test on artwork with a minimal amount of traits and attributes as the more complex the artwork is, larger dimensions and amount of traits you have will greatly increase the export time.</li>
   <li>After updating rarity settings they may not show until your click on another trait. If your rarity distribution adds up to less than 100%, the remainder will be added to 'None'.</li>
+  <li>After clicking Generate Collection, the application will freeze until complete. You will have to force quit the program if you want to cancel. This is an Adobe ExtendScript issue.
+</ul>
+  <h3>Illustrator</h3>
+<ul>
+  <li>Open your artwork .ai file, -OR- download the sample file to view how to organize your artwork</li>
+  <li>In your artwork file, start by creating new layers for each trait. In the bottom right of the layers panel, click on the + icon 'Create New Layer'</li>
+  <li>It's very important that you create a new layer. Paths or groups won't work at this level with Collectasave.</li>
+  <li>Double click the layers and name it how you want this particular trait to be called. For example "Subglasses".</li>
+  <li>Select the layer you just created and click the + with arrow icon to create a new sublayer. This will become your trait attribute. For this example, name it "Green Glasses".</li>
+  <li>Add your artwork paths and groups to this layer you just created.</li>
+  <li>Repeat the steps above to create the layers for all your traits and attributes.</li>
+  <li>Go to File > Collectasave</li>
+  <li>Fill out the required fields in the left panel.</li>
+  <li>It's recommend to test on artwork with a minimal amount of traits and attributes as the more complex the artwork is and amount of traits you have will greatly increase the export time.</li>
+  <li>After updating rarity settings they may not show until your click on another trait. If your rarity distribution adds up to less than 100%, the remainder will be added to 'None'.</li>
+  <li>After clicking Generate Collection, the application will freeze until complete. You will have to force quit the program if you want to cancel. This is an Adobe ExtendScript issue.
+</ul>
+<p>When you run Collectasave, it will create the following folders in the same location as your artwork: /data/, /data/svg_layers, /assets/, /assets/artwork, /assets/metadata. Your artwork assets and json files will be saved to /assets. If these folders aren't being created automatically, you can create them manually before running the script.
+<h2>Issues/Limitations</h2>
+<ul>
+  <li>As of 2021.12.18 this software has not yet been tested on Windows.</li>
+  <li>Please keep in mind that Adobe ExtendScript uses ECMA 3 (1999), limiting some features and leading to some undireable architecture.</li>
+  <li>For Illustrator, do not include any bitmaps in your artwork. Collectasave will only work with vector-only artwork. For mixed artwork, use Collectasave with Photoshop.</li>
+  <li>If you would like to suggest a different namespace for SVG's, please open an issue in the repo.</li>
+  <li>Any other bugs please open an issue in the repo.</li>
+  </ul>
