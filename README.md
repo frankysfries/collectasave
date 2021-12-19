@@ -31,7 +31,7 @@
 <p>First, start by reviewing the demo video at: </p>
 <h3>Photoshop</h3>
 <ul>
-  <li>Open your artwork .psd file, -OR- download the sample file to view how to organize your artwork</li>
+  <li>Open your artwork .psd file, -OR- download the sample file (Artwork.psd) to view how to organize your artwork</li>
   <li>In your artwork PSD, start by grouping each trait. In the bottom right of the layers panel, click on the folder icon 'Create new group'</li>
   <li>Double click the group and name it how you want this particular trait to be called. For example "Emblem".</li>
   <li>Click the folder icon again to create another group. Drag the group you just created into the Emblem group so it becomes a sub group. This will become your trait attribute. For this example, name it "Orange".</li>
@@ -45,7 +45,7 @@
 </ul>
   <h3>Illustrator</h3>
 <ul>
-  <li>Open your artwork .ai file, -OR- download the sample file to view how to organize your artwork</li>
+  <li>Open your artwork .ai file, -OR- download the sample file (Artwork.ai) to view how to organize your artwork</li>
   <li>In your artwork file, start by creating new layers for each trait. In the bottom right of the layers panel, click on the + icon 'Create New Layer'</li>
   <li>It's very important that you create a new layer. Paths or groups won't work at this level with Collectasave.</li>
   <li>Double click the layers and name it how you want this particular trait to be called. For example "Subglasses".</li>
