@@ -4,7 +4,7 @@
 <p>Please take a moment to follow...
   <br />Twitter: <a href="https://twitter.com/FrankysFries">@FrankysFries</a>
   <br />YouTube: <a href="https://www.youtube.com/channel/UCXLkyqoSEuZ6iHMFn2QiGLg">Link</a>
-<br />Discord: frankysfries#2519
+  <br />Discord: <a href="https://discord.gg/QZ9xW6jY">Collectasave</a>
 </p>
 
 <p>If you're feeling generous, feel free to donate to:
