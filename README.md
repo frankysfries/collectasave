@@ -1,5 +1,5 @@
 # Collectasave
-<p>A generative art creation tool for Photoshop and Illustrator. Export your NFT collection artwork as unique assets with corresponding metadata and customizable rarity settings.</p>
+<p>Collectasave is an open source generative art creation tool for Photoshop and Illustrator. Export your NFT collection artwork as unique assets with corresponding metadata and customizable rarity settings.</p>
 
 <p>Please take a moment to follow...
   <br />Twitter: <a href="https://twitter.com/FrankysFries">@FrankysFries</a>
