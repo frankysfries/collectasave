@@ -28,7 +28,7 @@
   <li>If Illustrator is open, quit and reopen it.</li>
 </ul>
 <h2>Usage</h2>
-<p>First, start by reviewing the demo video at: </p>
+<p>First, start by reviewing the demo video at: https://youtu.be/bn6OhVuXy4M</p>
 <h3>Photoshop</h3>
 <ul>
   <li>Open your artwork .psd file, -OR- download the sample file (Artwork.psd) to view how to organize your artwork</li>
