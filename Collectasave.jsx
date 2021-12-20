@@ -1,8 +1,8 @@
+#include "../Modules/json2.js";
 // SPDX-License-Identifier: MIT
 // Copyright (c) 2021 frankysfries
 // Title: Collectasave
 // Author: Franky's Fries (github.com/frankysfries/)
-#include "../Modules/json2.js";
 
 var product;
 var productName = app.name;
