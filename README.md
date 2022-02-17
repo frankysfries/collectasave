@@ -8,7 +8,6 @@
 </p>
 
 <p>If you're feeling generous, feel free to donate to:
-<br />Ethereum: 0xb1E5EF9cDB5A21f4C403C0648a111b1124c225a8
 <br />Solana: 894Rm4kKN3RmoPyumLqHCsEXStRnkAyZYTtw9QQHmxrS</p>
 
 <h2>Installation</h2>
